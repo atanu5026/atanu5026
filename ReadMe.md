@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a student, enrolled in B.Tech Electrical Engineering in Techno Main Saltlake, West Bengal<br>🤝 I’m looking for help with - to learn new things and work on real-world projects<br>🌱 I’m currently learning - MERN stack<br>💬 Ask me about
+🔭 I’m currently a student, enrolled in B.Tech Electrical Engineering in Techno Main Saltlake, West Bengal<br>🤝 I’m looking for help with - to learn new things and work on real-world projects<br>🌱 I’m currently learning - MERN stack<br>💬 Ask me about - http://atanu1901port.ct.ws
 
 
 ## 🌐 Socials:
