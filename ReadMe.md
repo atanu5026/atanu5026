@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atanu5026&label=Profile%20views&color=0e75b6&style=flat" alt="atanu5026" /> </p>
 
 # 💫 About Me:
-🔭 I’m currently a student, enrolled in B.Tech Electrical Engineering in Techno Main Saltlake, West Bengal<br>🤝 I’m looking for help with - to learn new things and work on real-world projects<br>🌱 I’m currently learning - Data Analyticsk<br>💬 Ask me about - https://atanu1901port.ct.ws
+🔭 I’m currently a student, enrolled in B.Tech Electrical Engineering in Techno Main Saltlake, West Bengal<br>🤝 I’m looking for help with - to learn new things and work on real-world projects<br>🌱 I’m currently learning - Data Analytics<br>💬 Ask me about - https://atanu1901port.ct.ws
 
 
 ## 🌐 Socials:
